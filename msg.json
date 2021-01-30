@@ -1,18 +1,26 @@
 {
   "serviceProvided": [
-    "Internet access",
-    "Black & White Print & Copy",
-    "Colour Print & Copy",
-    "CD & DVD Duplication & Digitization",
-    "Convert (Many kind of convert)"
-  ],
-  "homeSummary": "Conveniently located in Ramgarh Panchkula within walking distance from SBI branch Ramgarh, we will provide you the <b class=\"c-pr\">Best problem solving service for you IT needs!</b>",
+    "Website Designing / Development / Hosting with Domain Name",
+    "Photocopy & Scanning",
+    "Color and B&W Prints",
+    "Photograph Printing",
+    "Visiting Cards & Letter Heads"
+    "All Online Recharges",
+    "Online Ticket Bookings",
+    "PC/Laptop Tunning",
+    "Our add-on services like all kind of Health/Term/Vehicle Insurances",
+    "New/Port SIMs",
+    "Domestic & International Courier Services",
+    "All kind of Stationary Items",
+    ],
+  
+  "homeSummary": "Conveniently located in Ramgarh Panchkula within walking distance from SBI-Ramgarh branch, we will provide you the <b class=\"c-pr\">Best problem solving service for you IT needs!</b>",
   "navTextArray": ["Home", "News", "Contact", "About"],
   "address": {
     "name": "The Cyber intel",
-    "address": "Krishna vihar, Ramgarh Panchkula",
-    "landmark": "In the Street beside SBI",
+    "address": "Guru Nanak Colony Daffarpur, Zirakpur, Mohali - 160104",
+    "landmark": "Opp. Krishna Vihar",
     "email": "contact@cyberintel.com",
-    "mobile": "9987654321"
+    "mobile": "78892 12126"
   }
 }
